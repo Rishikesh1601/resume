@@ -1,0 +1,32 @@
+.persona{
+    padding: 30px;
+    margin: 20px;
+    background-color: #F6D7A7;
+}
+.one{
+    width: 25%;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.two{
+    margin-left: 30px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.three{
+    padding: 30px;
+    margin: 20px;
+    background-color: #F6EABE;
+}
+.four{
+    padding: 30px;
+    margin: 20px;
+    background-color: #C8E3D4;
+}
+.five{
+    padding: 30px;
+    margin: 20px;
+    background-color: #87AAAA;
+}
